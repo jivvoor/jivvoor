@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20to%20Jiwoo's%20Github&fontSize=70&fontAlign=50&fontAlignY=50&desc=I'm%20a%20backend%20developer%20in%20training&descSize=18&descAlign=51&descAlignY=65" alt="header"/>
-</div>
-
-<!-- 
-Icons can be copied from sites like piliapp.com. 
-Badges can be generated at shields.io
--->
 
 <div align="center">
 
@@ -62,59 +54,6 @@ Badges can be generated at shields.io
   </p>
 </div>
 
-<br>
-
-## 📂 Projects
-
-<!-- 
-This is a project template. You can copy it to add more projects.
-Replace [PROJECT_URL] with the actual project repository address.
--->
-<details>
-  <summary><strong>Project 1: [Project Name] (YYYY.MM ~ YYYY.MM)</strong></summary>
-  <div markdown="1">
-    
-  **[One-line description]**
-  
-  - **Key Features**:
-    - Feature 1: Implement OOO
-    - Feature 2: Process XXX
-    - Feature 3: Integrate YYY
-  - **My Role**:
-    - Designed and implemented the entire backend API server
-    - [Role 1] e.g., Implemented JWT-based authentication/authorization
-    - [Role 2] e.g., Developed real-time chat feature using Redis
-    - [Role 3] e.g., Implemented file upload/download feature using AWS S3
-  - **Tech Stack**:
-    - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  - **Achievements**:
-    - [Achievement 1] e.g., Improved search performance by 20% with dynamic queries using QueryDSL
-    - [Achievement 2] e.g., Established a zero-downtime deployment environment using Nginx and Docker
-  - **Repository**:
-    - [GitHub Repository]([PROJECT_URL])
-    
-  </div>
-</details>
-
-<details>
-  <summary><strong>Project 2: [Project Name] (YYYY.MM ~ YYYY.MM)</strong></summary>
-  <div markdown="1">
-    
-  **[One-line description]**
-  
-  - **Key Features**:
-    - Feature 1
-    - Feature 2
-  - **My Role**:
-    - Role 1
-    - Role 2
-  - **Tech Stack**:
-    - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  - **Repository**:
-    - [GitHub Repository]([PROJECT_URL])
-    
-  </div>
-</details>
 
 <br>
 
@@ -126,8 +65,8 @@ Themes can be chosen from https://github.com/anuraghazra/github-readme-stats#the
 -->
 <div align="center">
 
-![[YOUR_GITHUB_ID]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_ID]&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_ID]&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### 🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jivvoor&layout=compact)
 
 </div>
 
