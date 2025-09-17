@@ -4,7 +4,7 @@
 
 <!-- 
 Icons can be copied from sites like piliapp.com. 
-Badges can be generated at shields.io.
+Badges can be generated at shields.io
 -->
 
 <div align="center">
