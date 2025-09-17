@@ -1,20 +1,24 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20to%20Jiwoo's%20Github&fontSize=70&fontAlign=50&fontAlignY=50&desc=I'm%20a%20backend%20developer%20in%20training&descSize=18&descAlign=51&descAlignY=65" alt="header"/>
+</div>
+
 <!-- 
-이모티콘은 https://kr.piliapp.com/twitter-symbols/ 에서 복사 붙여넣기 할 수 있습니다.
-뱃지는 https://shields.io/ 에서 생성할 수 있습니다.
+Icons can be copied from sites like piliapp.com. 
+Badges can be generated at shields.io.
 -->
 
 <div align="center">
 
-# 안녕하세요, 백엔드 개발자를 꿈꾸는 OOO입니다. 👋
+# Welcome to Jiwoo's GitHub 👋
 
 <br>
 
-<p>🚀 문제를 해결하고 공유하는 것을 즐기는 주니어 개발자입니다.</p>
-<p>💡 꾸준한 학습과 성장을 통해 더 나은 코드를 만드는 것을 목표로 합니다.</p>
+<p>🚀 A junior developer who enjoys solving and sharing problems.</p>
+<p>💡 Aiming to write better code through continuous learning and growth.</p>
 
 <br>
 
-<!-- 소셜 링크 -->
+<!-- Social Links -->
 <p>
   <a href="mailto:[YOUR_EMAIL@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://[YOUR_BLOG].tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
@@ -26,7 +30,7 @@
 
 <br>
 
-## 🛠️ 기술 스택 (Tech Stack)
+## 🛠️ Tech Stack
 
 <div align="center">
   <p><strong>Languages & Frameworks</strong></p>
@@ -60,53 +64,53 @@
 
 <br>
 
-## 📂 포트폴리오 (Projects)
+## 📂 Projects
 
 <!-- 
-프로젝트 템플릿입니다. 복사해서 여러 프로젝트를 추가할 수 있습니다.
-[PROJECT_URL] 부분에는 실제 프로젝트 Repository 주소를 넣어주세요.
+This is a project template. You can copy it to add more projects.
+Replace [PROJECT_URL] with the actual project repository address.
 -->
 <details>
-  <summary><strong>프로젝트 1: [프로젝트 이름] (YYYY.MM ~ YYYY.MM)</strong></summary>
+  <summary><strong>Project 1: [Project Name] (YYYY.MM ~ YYYY.MM)</strong></summary>
   <div markdown="1">
     
-  **[한 줄 소개]**
+  **[One-line description]**
   
-  - **주요 기능**:
-    - 기능 1: OOO 구현
-    - 기능 2: XXX 처리
-    - 기능 3: YYY 연동
-  - **나의 역할**:
-    - 백엔드 API 서버 전체 설계 및 구현
-    - [역할 1] e.g., JWT 기반 인증/인가 시스템 구현
-    - [역할 2] e.g., Redis를 활용한 실시간 채팅 기능 개발
-    - [역할 3] e.g., AWS S3를 이용한 파일 업로드/다운로드 기능 구현
-  - **기술 스택**:
+  - **Key Features**:
+    - Feature 1: Implement OOO
+    - Feature 2: Process XXX
+    - Feature 3: Integrate YYY
+  - **My Role**:
+    - Designed and implemented the entire backend API server
+    - [Role 1] e.g., Implemented JWT-based authentication/authorization
+    - [Role 2] e.g., Developed real-time chat feature using Redis
+    - [Role 3] e.g., Implemented file upload/download feature using AWS S3
+  - **Tech Stack**:
     - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  - **성과**:
-    - [성과 1] e.g., QueryDSL을 이용한 동적 쿼리 작성으로 검색 성능 20% 개선
-    - [성과 2] e.g., Nginx와 Docker를 이용한 무중단 배포 환경 구축
-  - **저장소**:
+  - **Achievements**:
+    - [Achievement 1] e.g., Improved search performance by 20% with dynamic queries using QueryDSL
+    - [Achievement 2] e.g., Established a zero-downtime deployment environment using Nginx and Docker
+  - **Repository**:
     - [GitHub Repository]([PROJECT_URL])
     
   </div>
 </details>
 
 <details>
-  <summary><strong>프로젝트 2: [프로젝트 이름] (YYYY.MM ~ YYYY.MM)</strong></summary>
+  <summary><strong>Project 2: [Project Name] (YYYY.MM ~ YYYY.MM)</strong></summary>
   <div markdown="1">
     
-  **[한 줄 소개]**
+  **[One-line description]**
   
-  - **주요 기능**:
-    - 기능 1
-    - 기능 2
-  - **나의 역할**:
-    - 역할 1
-    - 역할 2
-  - **기술 스택**:
+  - **Key Features**:
+    - Feature 1
+    - Feature 2
+  - **My Role**:
+    - Role 1
+    - Role 2
+  - **Tech Stack**:
     - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  - **저장소**:
+  - **Repository**:
     - [GitHub Repository]([PROJECT_URL])
     
   </div>
@@ -114,11 +118,11 @@
 
 <br>
 
-## 📊 GitHub 통계 (GitHub Stats)
+## 📊 GitHub Stats
 
 <!-- 
-[YOUR_GITHUB_ID] 부분을 자신의 GitHub 아이디로 변경해주세요.
-테마는 https://github.com/anuraghazra/github-readme-stats#themes 에서 고를 수 있습니다.
+Change [YOUR_GITHUB_ID] to your GitHub ID.
+Themes can be chosen from https://github.com/anuraghazra/github-readme-stats#themes.
 -->
 <div align="center">
 
@@ -132,5 +136,5 @@
 ---
 
 <div align="center">
-  <p>방문해 주셔서 감사합니다! 😊</p>
+  <p>Thank you for visiting! 😊</p>
 </div>
