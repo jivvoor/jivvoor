@@ -10,14 +10,6 @@
 
 <br>
 
-<!-- Social Links -->
-<p>
-  <a href="mailto:[YOUR_EMAIL@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://[YOUR_BLOG].tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-  <a href="https://velog.io/@[YOUR_VELOG_ID]" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_ID]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
 </div>
 
 <br>
