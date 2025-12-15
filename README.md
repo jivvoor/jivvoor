@@ -5,6 +5,14 @@
 
 <br>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jivvoor&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jivvoor"
+  width="600"
+  height="300"
+/>
+</a>
+
 <p>🚀 A junior developer who enjoys solving and sharing problems.</p>
 <p>💡 Aiming to write better code through continuous learning and growth.</p>
 
