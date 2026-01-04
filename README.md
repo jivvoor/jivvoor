@@ -58,21 +58,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<!-- 
-Change [YOUR_GITHUB_ID] to your GitHub ID.
-Themes can be chosen from https://github.com/anuraghazra/github-readme-stats#themes.
--->
-<div align="center">
-
-### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jivvoor&layout=compact)
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
